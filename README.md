@@ -78,9 +78,9 @@ Hi, I'm CryptoDev26, a Senior Blockchain and Cryptocurrency Developer, I have ri
 
 **Connect with me:**
 
- -Email : superinvestor20@gmail.com
+ -Email : cryptodev26@gmail.com
  
- -Discord : frozencrystal#8799
+ -Discord : Supercoder#7902
 
 
 <!--
