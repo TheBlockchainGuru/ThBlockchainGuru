@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! HEY MAXX.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to meet you.</h1>
 
 
 <p>Welcome to my page! </br> 6+ years experience with proficiency in NFT Marketplace |Smart Contract Development | Blockhain Development | ICO | Cryptocurrency | Smart Contract Audits| Public & Private Blockchain | dApps.</h3>
