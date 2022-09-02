@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to meet you.</h1>
 
 
-<p>Welcome to my page! </br> 6+ years experience with proficiency in NFT Marketplace | Smart Contract Development | Blockchain Development | ICO | Cryptocurrency | Smart Contract Audits| Public & Private Blockchain | dApps.</h3>
+<p>Welcome to my page! </br> 6+ years experience with proficiency in NFT Marketplace | Smart Contract Development | Blockchain Development | ICO | Cryptocurrency | Smart Contract Audits | Public & Private Blockchain | dApps.</h3>
 <p>
 <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-000000?style=flat-square&logo=bitcoin&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
